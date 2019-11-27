@@ -15,7 +15,7 @@ what I made is<br>
 最適だとは思えません<br>
 作ったもの<br>
 [FasterLinepy-transport.py](https://github.com/TakagiChan/LineStorage/blob/master/FasterLinepy/transport.py) - 自宅のPCでも約0.8秒ほど早くなる<br>
-![REWRIE-EN](https://i.imgur.com/M3he3Wt.png)<br>
+![REWRIE-JA](https://i.imgur.com/9hcSHeZ.png)<br>
 [ProtoAkad](https://github.com/TakagiChan/LineStorage/tree/master/protoAkad) - 少ししかないけど、akadを学ぶには価値がある
 
 ## Contact/連絡先
